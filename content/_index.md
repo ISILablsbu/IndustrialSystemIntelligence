@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **LSBU ISI Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2025.
+        The **LSBU ISI Research Group** has been a center of excellence for Artificial Intelligence and Robotics research, teaching, and practice since its founding in 2025.
   
   # - block: collection
   #   content:
