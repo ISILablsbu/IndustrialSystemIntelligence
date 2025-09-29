@@ -30,16 +30,25 @@ marketing:
     baidu: ''
 
 # Site header
-
 header:
   navbar:
     enable: true
-    align: r
+    blox: "navbar"
+    align: "right"
+    fixed_to_top: true
     show_logo: true
     show_language: false
     show_day_night: true
     show_search: true
+    show_theme_chooser: true
     highlight_active_link: false
+    logo:
+      text: ""
+      filename: "logo.svg"
+    button:
+      enable: true
+      text: "google"
+      url: "https://google.com"
 
 # Site footer
 
