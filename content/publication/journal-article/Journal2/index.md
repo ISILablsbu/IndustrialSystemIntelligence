@@ -1,16 +1,17 @@
 ---
-title: "Gest-SAR: A Gesture-Controlled Spatial AR System for Interactive Manual Assembly Guidance with Real-Time Operational Feedback"
+title: "State of the art and future directions of digital twin-enabled smart assembly automation in discrete manufacturing industries"
 authors:
-- Naimul
+- Louie
+- Osman M. Tokhi
 - Bugra
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2025-07-27"
-doi: "https://doi.org/10.3390/machines13080658"
+date: "2024-08-21"
+doi: "https://doi.org/10.1080/0951192X.2024.2387775"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-07-27"
+publishDate: "2024-08-21"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,24 +19,24 @@ publishDate: "2025-07-27"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "MDPI Machine Journal"
+publication: "*International Journal of Computer Integrated Manufacturing*"
 publication_short: ""
 
-abstract: Manual assembly remains essential in modern manufacturing, yet the increasing complexity of customised production imposes significant cognitive burdens and error rates on workers. Existing Spatial Augmented Reality (SAR) systems often operate passively, lacking adaptive interaction, real-time feedback and a control system with gesture. In response, we present Gest-SAR, a SAR framework that integrates a custom MediaPipe-based gesture classification model to deliver adaptive light-guided pick-to-place assembly instructions and real-time error feedback within a closed-loop interaction instance. In a within-subject study, ten participants completed standardised Duplo-based assembly tasks using Gest-SAR, paper-based manuals, and tablet-based instructions; performance was evaluated via assembly cycle time, selection and placement error rates, cognitive workload assessed by NASA-TLX, and usability test by post-experimental questionnaires. Quantitative results demonstrate that Gest-SAR significantly reduces cycle times with an average of 3.95 min compared to Paper (Mean = 7.89 min, p < 0.01) and Tablet (Mean = 6.99 min, p < 0.01). It also achieved 7 times less average error rates while lowering perceived cognitive workload (p < 0.05 for mental demand) compared to conventional modalities. In total, 90% of the users agreed to prefer SAR over paper and tablet modalities. These outcomes indicate that natural hand-gesture interaction coupled with real-time visual feedback enhances both the efficiency and accuracy of manual assembly. By embedding AI-driven gesture recognition and AR projection into a human-centric assistance system, Gest-SAR advances the collaborative interplay between humans and machines, aligning with Industry 5.0 objectives of resilient, sustainable, and intelligent manufacturing.
+abstract: Digital twin (DT) technology is increasingly recognised for its potential to transform the manufacturing industry, particularly in assembly automation. By offering real-time insights and optimisation capabilities, DTs enhance efficiency, reduce costs, and improve product quality. This paper critically reviews DT-enabled smart factories in assembly automation, aiming to evaluate the current state, identify common practices, and propose a taxonomy for standardisation. The taxonomy outlines key factors in DT-enabled systems, including data sources, visualisation, applications, functional outputs, digital coupling, and IoT protocols. These classifiers help navigate the complex frameworks of DTs, guiding the design and implementation of assembly automation systems. Through a comprehensive analysis of 60 key publications, the review categorises DT objectives, propositions, and implementation technologies, identifying common themes and addressing gaps in current research. The findings emphasise the importance of integrating DTs with existing systems, ensuring reliability and security in data-driven DTs, and pursuing sustainable solutions beyond energy-intensive industries. This review not only informs future research but also provides a framework to guide industry practices in the development of DT-enabled assembly automation systems.
 
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Machine
+- Taylor&Francis
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ""
-url_code: 'https://github.com/ISILablsbu/GestSAR'
+url_pdf: https://www.tandfonline.com/doi/epdf/10.1080/0951192X.2024.2387775?needAccess=true
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -46,7 +47,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ' Correct component picking by green lights.'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 
