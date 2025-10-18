@@ -1,5 +1,5 @@
 ---
-title: LSBU ISI Lab Presents: The 2025 Kilobot Swarm Intelligence Extra-Curricular Activity
+title: "LSBU ISI Lab Presents: The 2025 Kilobot Swarm Intelligence Extra-Curricular Activity"
 
 event: Kilobot Swarm Robot ExC
 # event_url: https://example.org
