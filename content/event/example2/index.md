@@ -1,5 +1,30 @@
 ---
 title: "LSBU ISI Lab Presents: The 2025 Kilobot Swarm Intelligence Extra-Curricular Activity"
+event: Kilobot Swarm Robot ExC
+location: FW-106, Faraday Wing
+address:
+  street: Keyworth Street
+  city: London
+  postcode: "SE1 6NG"
+  country: United Kingdom
+summary: Hands-on training on swarm robots.
+abstract: |
+  LSBU ISI Lab is proud to host the 2025 Kilobot Swarm Intelligence Workshop...
+date: "2025-12-15T13:00:00Z"    # event time
+publishDate: "2025-10-18T00:00:00Z"  # publish now (or your chosen date)
+draft: false
+featured: false
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  focal_point: Right
+---
+
+
+
+
+
+<!-- ---
+title: "LSBU ISI Lab Presents: The 2025 Kilobot Swarm Intelligence Extra-Curricular Activity"
 
 event: Kilobot Swarm Robot ExC
 # event_url: https://example.org
@@ -61,4 +86,4 @@ Slides can be added in a few ways:
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
 
-Further event details, including page elements such as image galleries, can be added to the body of this page.
+Further event details, including page elements such as image galleries, can be added to the body of this page. -->
