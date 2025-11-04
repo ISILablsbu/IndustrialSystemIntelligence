@@ -1,5 +1,5 @@
 ---
-title: Placeholder for Research Page
+title: Ongoing Research Projects
 
 # Listing view
 view: compact
