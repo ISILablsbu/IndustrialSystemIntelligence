@@ -1,0 +1,20 @@
+:root {
+  /* Primary (red) */
+  --color-primary: #cc0000;
+  --color-primary-light: #e60000;
+  --color-primary-dark: #990000;
+
+  /* Neutral colours */
+  --color-background: #ffffff;
+  --color-text: #000000;
+
+  /* HugoBlox / Bootstrap button overrides */
+  --bs-primary: #cc0000;
+  --bs-primary-rgb: 204, 0, 0;
+
+  --bs-btn-bg: #cc0000;
+  --bs-btn-border-color: #cc0000;
+
+  --bs-btn-hover-bg: #990000;
+  --bs-btn-hover-border-color: #990000;
+}

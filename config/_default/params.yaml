@@ -7,9 +7,11 @@
 
 appearance:
   theme_day: minimal
-  theme_night:
+  theme_night: minimal
   font: native
   font_size: L
+  mode: light
+  color: red
 
 # SEO
 
@@ -44,7 +46,7 @@ header:
     highlight_active_link: false
     logo:
       text: ""
-      filename: "logo.svg"
+      filename: "logo.png"
     button:
       enable: true
       text: "google"
